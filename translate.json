@@ -1,0 +1,9 @@
+{
+  "Layers": [
+    ["My Levels", "Mis Niveles"],
+    ["Ignore Damage", "Ignorar Lesiones"]
+  ],
+  "Voices": [
+    ["Play", "Jugar", "play_001.mp3"]
+  ]
+}
