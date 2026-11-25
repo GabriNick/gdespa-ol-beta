@@ -1,9 +1,10 @@
 {
   "Layers": [
-    ["My Levels", "Mis Niveles"],
-    ["Ignore Damage", "Ignorar Lesiones"]
-  ],
-  "Voices": [
-    ["Play", "Jugar", "play_001.mp3"]
+    ["Song Usage", "Uso de canción"],
+    ["Blue arrow", "Flecha azul"],
+    ["Levels uploaded witht this song", "Niveles subidos con esta canción"],
+    ["Star", "Estrella"],
+    ["Green arrow", "Flecha verde"],
+    ["Total downloads for rated levels", "Descargas totales de niveles calificados"]
   ]
 }
